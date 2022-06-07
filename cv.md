@@ -4,7 +4,7 @@
 
 ***
 ##Contacts:
-   email: natalyamihalovna@gmail.com<br/>g
+   email: natalyamihalovna@gmail.com<br/>
    Telegram: @Natalsa<br/>
    Tel: +995599696147
 ***

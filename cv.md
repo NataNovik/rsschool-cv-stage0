@@ -12,7 +12,7 @@
 I successfully completed the HTML/CSS course.
 I have a great desire to study further and become a web developer. I have good analytical skills and I learn easily. I work well in a team
 ***
-##Skills
+##Professional Skills
 - HTML
 - CSS/SCSS
 - Git
@@ -28,4 +28,12 @@ I have a great desire to study further and become a web developer. I have good a
 
 ***
 
-   
+##Code example
+
+My work on [GITHUBE](https://github.com/NataNovik/CosmeticNovik)
+***
+
+##Languages:
+ - English (Pre-Intermediate)
+
+

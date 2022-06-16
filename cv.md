@@ -1,6 +1,6 @@
 
 #**Novik Natallia**
-![foto](foto.jpg)
+![foto](assets/imgs/foto.jpg)
 
 ***
 ##Contacts:
